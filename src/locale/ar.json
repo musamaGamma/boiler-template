@@ -1,3 +1,9 @@
 {
- "greetings": "مرحبا"
+ "greetings": "مرحبا",
+ "Home": "الرئيسية",
+ "About": "من نحن",
+ "Services": "خدماتنا",
+ "Pricing": "أسعارنا",
+ "Contact": "اتصل بنا"
+ 
 }

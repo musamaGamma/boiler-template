@@ -1,10 +1,11 @@
 import React from "react";
 import { Trans } from "react-i18next";
+import Header from "../../components/Header";
 
 const Home = () => {
   return (
     <div>
-      <Trans>greetings</Trans>
+      <Header />
     </div>
   );
 };
